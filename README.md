@@ -8,7 +8,7 @@ Muchas veces queremos viajar pero no tenemos idea de como llegar o que buses tom
 
 ## UNIDAD 1
 
-## NUEVA EXPERIENCIA EN EMPRESAS DE BUSES
+### NUEVA EXPERIENCIA EN EMPRESAS DE BUSES
 *Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Durante sus últimas vacaciones Catalina estuvo viajando por todo latinoamérica. Durante estos viajes Catalina tuvo que tomar muchos buses de todo tipo para llegar a ver los paisajes más lindos del continente. Durante sus viajes Catalina se dio cuenta que existen aún muchas oportunidades para mejorar la experiencia de todos los usuarios de este tipo de transporte: horarios, embarques, desembarques, compra de tickets en los terminales, compra de tickets online, cancelaciones, cambios de pasajes, etc. Adicionalmente, Catalina se dio cuenta que todas las plataformas de venta de tickets de bus tienen cosas por mejorar en Chile, Perú y México.*
 
 *Luego de vivir todo esto, Catalina está pensando en emprender en este sector. Para ello ha contratado a tu squad para que la ayude a investigar más sobre los usuarios de este tipo de transportes y para que definan y prueben un MVP.*
@@ -20,7 +20,7 @@ Muchas veces queremos viajar pero no tenemos idea de como llegar o que buses tom
 
 ### 1. Descubrimiento e Investigación 
 
-## USER RESEARCH CUALITATIVO
+#### USER RESEARCH CUALITATIVO
 
 Se realizó un **diagrama de Afinidad** con la finalidad de poder analizar las propuestas de preguntas de cada una y no repetirlas durante la entrevista.
 
@@ -28,11 +28,11 @@ Se realizó un **diagrama de Afinidad** con la finalidad de poder analizar las p
 
 El squad se dividió en dos equipos:
 
-# Equipo A: Terminal Terrestre Plaza Norte
+###### Equipo A: Terminal Terrestre Plaza Norte
 
 ![equipoA](assets/docs/grupoa.jpeg)
 
-# Equipo B: Terminal Terreste Cruz del Sur y Movil Tours
+###### Equipo B: Terminal Terreste Cruz del Sur y Movil Tours
 
 ![equipoB](assets/docs/grupob.jpeg)
 
@@ -58,7 +58,7 @@ Al promediar las 16:00 horas, el equipo se junto en el domicilio de la integrant
 
 Ya con los datos comparados, el equipo procede a contactarse con otros usuarios más cercanos, con la finalidad de tener un espacio más cómodo para una segunda entrevista.
 
-## USER RESEARCH CUANTITATIVO
+#### USER RESEARCH CUANTITATIVO
 
 Se realiza las **encuestas** que serán enviadas a familiares y amigos a través de internet, con la finalidad de darnos una idea de la situación actual.
 
@@ -68,7 +68,7 @@ Para esta fase del proceso se usaron las siguientes herramientas:
 
 ![encuesta](assets/docs/encuesta.png)
 
-# Análisis Competitivo - Benchmark
+###### Análisis Competitivo - Benchmark
 
 Sabemos que el principal problema de nuestro usuario es la información ¿Cómo lo resolvieron otras empresas?. Identificamos a nuestros competidores y evaluamos sus estrategias para determinar sus fortalezas y debilidades en relación con las de nuestra propia solución.
 
@@ -82,7 +82,7 @@ Definición : En una prueba de pensamiento en voz alta, se pide a los participan
 
 [Video](https://drive.google.com/open?id=14ZBSrJp0GwIgVZRArCLxXCkFwnls6Y-N)
 
-# Análisis Comparativo
+###### Análisis Comparativo
 
 | ***Web Site*** | Fácil de usar | Recomienda Destinos | Información | Filtrado | Compra Online | Reservar Tickets |
 | -- | -- | -- | -- | -- | -- | -- |
@@ -90,11 +90,11 @@ Definición : En una prueba de pensamiento en voz alta, se pide a los participan
 | [Recorrido.cl](https://www.recorrido.cl/es) | ✘  | ✘  | ✘ | ✔  | ✔ | ✘ |
 | [Click Bus](https://www.clickbus.com.mx/es/) | ✘ | ✘ | ✔ | ✔ | ✔ | ✘ |
 
-# Indicadores
+###### Indicadores
 
 Se empleó la herramienta **Metricspot** *(https://metricspot.com)* para analizar y tener mayor información de nuestra competencia.
 
-# a. Análisis Web de **https://www.redbus.pe/**
+###### a. Análisis Web de **https://www.redbus.pe/**
 
 **Análisis Web**
 
@@ -108,7 +108,7 @@ Se empleó la herramienta **Metricspot** *(https://metricspot.com)* para analiza
 
 ![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/rb-3.png)
 
-# b. Análisis Web de **https://www.recorrido.cl/es**
+###### b. Análisis Web de **https://www.recorrido.cl/es**
 
 **Análisis Web**
 
@@ -122,7 +122,7 @@ Se empleó la herramienta **Metricspot** *(https://metricspot.com)* para analiza
 
 ![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/rec-3.png)
 
-# c. Análisis Web de **https://www.clickbus.com.mx/es/**
+###### c. Análisis Web de **https://www.clickbus.com.mx/es/**
 
 **Análisis Web**
 
@@ -139,7 +139,7 @@ Se empleó la herramienta **Metricspot** *(https://metricspot.com)* para analiza
 
 ### 2. Síntesis y Definición 
 
-## AFFINITY MAPING
+#### AFFINITY MAPING
 
 Durante las horas de clases, y con la orientación de nuestros profesores Gonzalo Loayza y Gabriela Segura, se comenzó a trabajar para realizar el ejercicio de **findings en post it** para posteriormente realizar el **Affinity Mapping** donde se agruparon los problemas según su categoría.
 
@@ -157,7 +157,7 @@ Se agruparon todas las observaciones de los usuarios en las siguientes categorí
 
 Luego de analizar todo la información obtenida, nos dimos cuenta de que de las categorías **Información** y **Reclamos** tienen más coincidencia entre nuestros usuarios, por ellos decidimos abordar estas categorías para la obtención de nuestra problemática.
 
-## Problemática sobre la información
+##### Problemática sobre la información
 
 - "He buscado en muchas páginas de internet, pero no encuentro información sobre qué buses debo tomar..."
 - "No encuentro información actualizada"
@@ -171,37 +171,37 @@ También encontramos esta problemática en algunos foro de internet
 
 ![example-web](assets/docs/foro-problema-info.png)
 
-## USER PERSONA
+#### USER PERSONA
 
 Con la información recaudada de las entrevistas, se define nuestro User Persona.
 
 ![user](assets/docs/user.png)
 
-## PROBLEM STATEMENT
+#### PROBLEM STATEMENT
 
 Usamos el siguiente patrón para definir un problema:
 
 ![problem](assets/docs/problemstatements.png)
 
-## HMW (HOW MIGHT WE?)
+#### HMW (HOW MIGHT WE?)
 
 ![problem](assets/docs/hmw.png)
 
-## WHAT IF?
+#### WHAT IF?
 
 ![problem](assets/docs/whatif.png)
 
 ### 3. Conceptualización e ideación
 
-## FEATURE LIST
+#### FEATURE LIST
 
-# Priorización
+##### Priorización
 
 ![priorizar](assets/docs/priorizar.png)
 
 Luego de observar la información recogida y analizados nuestros Problem Statements, se prioriza lo descubierto (**falta de información**)
 
-## MVP
+#### MVP
 
 Nuestro producto mínimo viable debe contener lo siguiente:
 
@@ -212,17 +212,17 @@ Nuestro producto mínimo viable debe contener lo siguiente:
 
 Este mínimo producto viable se realizó debido a que representa lo esencial y es de bajo costo realizarlo.
 
-## STORYBOARD
+#### STORYBOARD
 
 ![story](assets/docs/story.png)
 
 ### 4. Prototipado
 
-## CONTENT PROTOTYPE
+#### CONTENT PROTOTYPE
 
 ![content](assets/docs/content_.png)
 
-## PROTOTYPE 
+#### PROTOTYPE 
 
 Con nuestro MVP definido, se procede a realizar el prototipo.
 
@@ -244,7 +244,7 @@ Se realizaron diferentes testing con el objetivo de mejorar el proceso.
 
 ## UNIDAD 2
 
-## CUSTOMER JOURNEY
+#### CUSTOMER JOURNEY
 
 Se realiza el primer viaje del usuario **antes** de conocer nuestro producto.
 
@@ -254,7 +254,7 @@ Se realiza el primer viaje del usuario **después** de conocer nuestro producto.
 
 ![customer](assets/docs/viaje2.png)
 
-## STORYTELLING
+#### STORYTELLING
 
 Contamos la historia de nuestro user person, asi creamos un sentido de historia e identificamos como se soluciona el problema.
 
@@ -274,7 +274,7 @@ Siempre tengo que llamar o preguntar varias a amigos por referencias de empresas
 
 ![image](https://raw.githubusercontent.com/stephaniewv/ux_buses/c7dcfb3c26da6034793e1c3e99f5877c6adf148f/assets/docs/collage.jpg)
 
-## USER FLOW
+#### USER FLOW
 
 Se realiza el user flow de los portotipos de pantalla elaborados.
 
@@ -283,7 +283,7 @@ Se realiza el user flow de los portotipos de pantalla elaborados.
 
 https://projects.invisionapp.com/share/FDFTSDVS9M7#/screens/279054683
 
-## PROTOTIPOS INTERACTIVOS
+#### PROTOTIPOS INTERACTIVOS
 
 Aquí podemos aprecia el prototipo desarrollado:
 
