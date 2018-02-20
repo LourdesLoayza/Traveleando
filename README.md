@@ -1,5 +1,5 @@
 # Traveleando 
-Muchas veces queremos viajar pero no tenemos idea de como llegar o que buses tomar con destino a la ciudad deseada, para esas situaciones puedes contar con Traveleando que es una plataforma que te permite acceder a la venta y reserva de pasajes de autobús de diferentes líneas comerciales. ¿Qué esperas? Traveleando espera por ti.
+¿Te gusta viajar pero no tienes idea de que lugares visitar? en "Traveleando" te decimos como llegar a tu destino de manera rápida y confiable. 
 
 ![image](https://user-images.githubusercontent.com/30554218/36403994-4747c528-15b6-11e8-9c5b-a0f441ce1625.png)
 
@@ -292,9 +292,9 @@ https://marvelapp.com/4f49e39
 
 ### **Integrantes**
 
->##### Esthefany Humpiri Vargas
->##### Flora María Huerta
->##### Lourdes lissete Loayza mesias
->##### Mayte Infante Vivas
->##### Paola Silvana Huaman Luyo
->##### Stephanie Wong Vega
+* Esthefany Humpiri Vargas
+* Flora María Huerta
+* Lourdes lissete Loayza mesias
+* Mayte Infante Vivas
+* Paola Silvana Huaman Luyo
+* Stephanie Wong Vega
