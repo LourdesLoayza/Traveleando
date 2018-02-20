@@ -6,6 +6,7 @@ Traveleando es una plataforma de venta y reserva de pasajes de autobús de difer
 ## Desarrollado para 
 [Laboratoria](http://laboratoria.la)
 
+## UNIDAD 1
 
 ## NUEVA EXPERIENCIA EN EMPRESAS DE BUSES
 *Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Durante sus últimas vacaciones Catalina estuvo viajando por todo latinoamérica. Durante estos viajes Catalina tuvo que tomar muchos buses de todo tipo para llegar a ver los paisajes más lindos del continente. Durante sus viajes Catalina se dio cuenta que existen aún muchas oportunidades para mejorar la experiencia de todos los usuarios de este tipo de transporte: horarios, embarques, desembarques, compra de tickets en los terminales, compra de tickets online, cancelaciones, cambios de pasajes, etc. Adicionalmente, Catalina se dio cuenta que todas las plataformas de venta de tickets de bus tienen cosas por mejorar en Chile, Perú y México.*
@@ -19,9 +20,7 @@ Traveleando es una plataforma de venta y reserva de pasajes de autobús de difer
 
 ### 1. Descubrimiento e Investigación 
 
-## User Research
-
-# Día 1: RESEARCH CUALITATIVO
+## USER RESEARCH CUALITATIVO
 
 Se realizó un **diagrama de Afinidad** con la finalidad de poder analizar las propuestas de preguntas de cada una y no repetirlas durante la entrevista.
 
@@ -59,7 +58,7 @@ Al promediar las 16:00 horas, el equipo se junto en el domicilio de la integrant
 
 Ya con los datos comparados, el equipo procede a contactarse con otros usuarios más cercanos, con la finalidad de tener un espacio más cómodo para una segunda entrevista.
 
-# Día 2: RESEARCH CUANTITATIVO
+## USER RESEARCH CUANTITATIVO
 
 Se realiza las **encuestas** que serán enviadas a familiares y amigos a través de internet, con la finalidad de darnos una idea de la situación actual.
 
@@ -69,9 +68,78 @@ Para esta fase del proceso se usaron las siguientes herramientas:
 
 ![encuesta](assets/docs/encuesta.png)
 
+# Análisis Competitivo - Benchmark
+
+Sabemos que el principal problema de nuestro usuario es la información ¿Cómo lo resolvieron otras empresas?. Identificamos a nuestros competidores y evaluamos sus estrategias para determinar sus fortalezas y debilidades en relación con las de nuestra propia solución.
+
+Para esto utilizamos la técnica **Thinking Aloud Testing**
+
+Definición : En una prueba de pensamiento en voz alta, se pide a los participantes que usen el sistema mientras que continuamente piensan en voz alta, es decir, simplemente verbalizan sus pensamientos a medida que se mueven a través de la interfaz de usuario.
+
+- Nuestra participante realizó la prueba en la interfaz de la aplicación **Red Bus**:
+
+![img](https://cdn6.aptoide.com/imgs/7/6/0/7609b9f71c6be8d711684a1577644c85_icon.png?w=128)
+
+[Video](https://drive.google.com/open?id=14ZBSrJp0GwIgVZRArCLxXCkFwnls6Y-N)
+
+# Análisis Comparativo
+
+| ***Web Site*** | Fácil de usar | Recomienda Destinos | Información | Filtrado | Compra Online | Reservar Tickets |
+| -- | -- | -- | -- | -- | -- | -- |
+| [Red Bus](https://www.redbus.pe/) | ✔ | ✘ | ✘ | ✔  | ✔ | ✘ |
+| [Recorrido.cl](https://www.recorrido.cl/es) | ✘  | ✘  | ✘ | ✔  | ✔ | ✘ |
+| [Click Bus](https://www.clickbus.com.mx/es/) | ✘ | ✘ | ✔ | ✔ | ✔ | ✘ |
+
+# Indicadores
+
+Se empleó la herramienta **Metricspot** *(https://metricspot.com)* para analizar y tener mayor información de nuestra competencia.
+
+# a. Análisis Web de **https://www.redbus.pe/**
+
+**Análisis Web**
+
+![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/rb-1.png)
+
+**Datos Históricos**
+
+![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/rb-2.png)
+
+**Impacto en Redes Sociales**
+
+![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/rb-3.png)
+
+# b. Análisis Web de **https://www.recorrido.cl/es**
+
+**Análisis Web**
+
+![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/rec-1.png)
+
+**Datos Históricos**
+
+![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/rec-2.png)
+
+**Impacto en Redes Sociales**
+
+![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/rec-3.png)
+
+# c. Análisis Web de **https://www.clickbus.com.mx/es/**
+
+**Análisis Web**
+
+![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/cb-1.png)
+
+**Datos Históricos**
+
+![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/cb-2.png)
+
+**Impacto en Redes Sociales**
+
+![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/cb-3.png)
+
+
 ### 2. Síntesis y Definición 
 
-## Affinity Mapping
+## AFFINITY MAPING
 
 Durante las horas de clases, y con la orientación de nuestros profesores Gonzalo Loayza y Gabriela Segura, se comenzó a trabajar para realizar el ejercicio de **findings en post it** para posteriormente realizar el **Affinity Mapping** donde se agruparon los problemas según su categoría.
 
@@ -103,137 +171,37 @@ También encontramos esta problemática en algunos foro de internet
 
 ![example-web](assets/docs/foro-problema-info.png)
 
-## Día 3 :
-
-## User Persona
+## USER PERSONA
 
 Con la información recaudada de las entrevistas, se define nuestro User Persona.
 
 ![user](assets/docs/user.png)
 
-## Problem Statement
+## PROBLEM STATEMENT
 
 Usamos el siguiente patrón para definir un problema:
 
 ![problem](assets/docs/problemstatements.png)
 
-
-## How Might We? (HMW)
+## HMW (HOW MIGHT WE?)
 
 ![problem](assets/docs/hmw.png)
 
-## What if? (HMW)
+## WHAT IF?
 
 ![problem](assets/docs/whatif.png)
 
-## Día 4 : Conceptualización
+### 3. Conceptualización e ideación
 
-## Feature List
+## FEATURE LIST
 
-## Benchmark:
-Sabemos que el principal problema de nuestro usuario es la información ¿Cómo lo resolvieron otras empresas?
-
-## Análisis Competitivo
-
-Identificamos a nuestros competidores y evaluamos sus estrategias para determinar sus fortalezas y debilidades en relación con las de nuestra propia solución.
-
-Para esto utilizamos la técnica **Thinking Aloud Testing**
-
-Definición : En una prueba de pensamiento en voz alta, se pide a los participantes que usen el sistema mientras que continuamente piensan en voz alta, es decir, simplemente verbalizan sus pensamientos a medida que se mueven a través de la interfaz de usuario.
-
-- Nuestra participante realizó la prueba en la interfaz de la aplicación **Red Bus**:
-
-![img](https://cdn6.aptoide.com/imgs/7/6/0/7609b9f71c6be8d711684a1577644c85_icon.png?w=128)
-
-[Video](https://drive.google.com/open?id=14ZBSrJp0GwIgVZRArCLxXCkFwnls6Y-N)
-
-## Análisis Comparativo
-
-
-| ***Web Site*** | Fácil de usar | Recomienda Destinos | Información | Filtrado | Compra Online | Reservar Tickets |
-| -- | -- | -- | -- | -- | -- | -- |
-| [Red Bus](https://www.redbus.pe/) | ✔ | ✘ | ✘ | ✔  | ✔ | ✘ |
-| [Recorrido.cl](https://www.recorrido.cl/es) | ✘  | ✘  | ✘ | ✔  | ✔ | ✘ |
-| [Click Bus](https://www.clickbus.com.mx/es/) | ✘ | ✘ | ✔ | ✔ | ✔ | ✘ |
-
-
-## Indicadores
-
-Se empleó la herramienta **Metricspot** *(https://metricspot.com)* para analizar y tener mayor información de nuestra competencia.
-
-## a. Análisis Web de **https://www.redbus.pe/**
-
-
-**Análisis Web**
-
-![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/rb-1.png)
-
-
-**Datos Históricos**
-
-![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/rb-2.png)
-
-
-**Impacto en Redes Sociales**
-
-![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/rb-3.png)
-
-
-
-
-
-
-#### 2. Análisis Web de **https://www.recorrido.cl/es**
-
-
-**Análisis Web**
-
-![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/rec-1.png)
-
-
-**Datos Históricos**
-
-![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/rec-2.png)
-
-
-**Impacto en Redes Sociales**
-
-![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/rec-3.png)
-
-
-
-
-
-
-#### 3. Análisis Web de **https://www.clickbus.com.mx/es/**
-
-
-**Análisis Web**
-
-![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/cb-1.png)
-
-
-**Datos Históricos**
-
-![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/cb-2.png)
-
-
-**Impacto en Redes Sociales**
-
-![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/cb-3.png)
-
-
-
-
-
-#### Priorización
+# Priorización
 
 ![priorizar](assets/docs/priorizar.png)
 
 Luego de observar la información recogida y analizados nuestros Problem Statements, se prioriza lo descubierto (**falta de información**)
 
-
-#### MVP
+## MVP
 
 Nuestro producto mínimo viable debe contener lo siguiente:
 
@@ -244,18 +212,17 @@ Nuestro producto mínimo viable debe contener lo siguiente:
 
 Este mínimo producto viable se realizó debido a que representa lo esencial y es de bajo costo realizarlo.
 
-#### Storyboard
+## STORYBOARD
 
 ![story](assets/docs/story.png)
 
-#### Content Prototype
+### 4. Prototipado
+
+## CONTENT PROTOTYPE
 
 ![content](assets/docs/content_.png)
 
-
-## IDEACIÓN
-
-#### Prototype
+## PROTOTYPE 
 
 Con nuestro MVP definido, se procede a realizar el prototipo.
 
@@ -263,7 +230,7 @@ Con nuestro MVP definido, se procede a realizar el prototipo.
 
 ![movil](assets/docs/prototype.jpeg)
 
-#### Testing
+### 5. TESTING
 
 Se realizaron diferentes testing con el objetivo de mejorar el proceso.
 
@@ -275,7 +242,9 @@ Se realizaron diferentes testing con el objetivo de mejorar el proceso.
 ![testing](assets/docs/lulu.png)
 
 
-### CUSTOMER JOURNEY
+## UNIDAD 2
+
+## CUSTOMER JOURNEY
 
 Se realiza el primer viaje del usuario **antes** de conocer nuestro producto.
 
@@ -285,16 +254,7 @@ Se realiza el primer viaje del usuario **después** de conocer nuestro producto.
 
 ![customer](assets/docs/viaje2.png)
 
-### USER FLOW
-
-Se realiza el user flow de los portotipos de pantalla elaborados.
-
-![customer](assets/docs/flow1.png)
-![customer](assets/docs/flow2.png)
-
-https://projects.invisionapp.com/share/FDFTSDVS9M7#/screens/279054683
-
-### STORYTELLING
+## STORYTELLING
 
 Contamos la historia de nuestro user person, asi creamos un sentido de historia e identificamos como se soluciona el problema.
 
@@ -314,6 +274,21 @@ Siempre tengo que llamar o preguntar varias a amigos por referencias de empresas
 
 ![image](https://raw.githubusercontent.com/stephaniewv/ux_buses/c7dcfb3c26da6034793e1c3e99f5877c6adf148f/assets/docs/collage.jpg)
 
+## USER FLOW
+
+Se realiza el user flow de los portotipos de pantalla elaborados.
+
+![customer](assets/docs/flow1.png)
+![customer](assets/docs/flow2.png)
+
+https://projects.invisionapp.com/share/FDFTSDVS9M7#/screens/279054683
+
+## PROTOTIPOS INTERACTIVOS
+
+Aquí podemos aprecia el prototipo desarrollado:
+
+https://marvelapp.com/4f49e39
+
 
 ### **Integrantes**
 
@@ -323,8 +298,3 @@ Siempre tengo que llamar o preguntar varias a amigos por referencias de empresas
 >##### Mayte Infante Vivas
 >##### Paola Silvana Huaman Luyo
 >##### Stephanie Wong Vega
-
-
-
-
-"La última y mejor experiencia que alguien tiene en cualquier lugar se convierte en la expectativa mínima de las experiencias que desean en todas partes."
