@@ -78,9 +78,9 @@ Definición : En una prueba de pensamiento en voz alta, se pide a los participan
 
 - Nuestra participante realizó la prueba en la interfaz de la aplicación **Red Bus**:
 
-![img](https://cdn6.aptoide.com/imgs/7/6/0/7609b9f71c6be8d711684a1577644c85_icon.png?w=128)
+![img](https://goo.gl/nQgF9v)
 
-[Video](https://drive.google.com/open?id=14ZBSrJp0GwIgVZRArCLxXCkFwnls6Y-N)
+[Video](https://goo.gl/JmrEnC)
 
 ###### Análisis Comparativo
 
@@ -272,7 +272,7 @@ Siempre tengo que llamar o preguntar varias a amigos por referencias de empresas
 
 *Ahora escoger mi destino y armar mi ruta es mucho mas fácil. Definitivamente recomendaría esta web.*
 
-![image](https://raw.githubusercontent.com/stephaniewv/ux_buses/c7dcfb3c26da6034793e1c3e99f5877c6adf148f/assets/docs/collage.jpg)
+![image](https://goo.gl/z8fRGC)
 
 #### USER FLOW
 
@@ -281,13 +281,13 @@ Se realiza el user flow de los portotipos de pantalla elaborados.
 ![customer](assets/docs/flow1.png)
 ![customer](assets/docs/flow2.png)
 
-https://projects.invisionapp.com/share/FDFTSDVS9M7#/screens/279054683
+https://goo.gl/2BToqN
 
 #### PROTOTIPOS INTERACTIVOS
 
 Aquí podemos aprecia el prototipo desarrollado:
 
-https://marvelapp.com/4f49e39
+https://goo.gl/xEh9yu
 
 
 ### **Integrantes**
